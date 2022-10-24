@@ -1,0 +1,15 @@
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+p {
+    color: black;
+}
+
+section{
+    height: 80vh;
+    border: 1px solid black;
+}
